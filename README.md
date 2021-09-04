@@ -6,7 +6,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I used to do figure skating.
 
-### Project 1: Arithmetic Test
+### Project 1: Android App for Arithmetic Tests
 * Developing an android app that users can interact with to perform arithmetic tasks
 * Using in biomedical engineering research project to collect data on patient stress responses
 * Research goal is to create a wearable device that can detect and lower stress
