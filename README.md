@@ -5,7 +5,7 @@
 - 📫 How to reach me: jliu866@gatech.edu
 - ⚡ Fun fact: I used to do figure skating
 
-### [Project 1: Web App for Estimating Avocado Prices] (https://github.com/jennyliu7/Project-Avocado)
+### [Project 1: Web App for Estimating Avocado Prices](https://github.com/jennyliu7/Project-Avocado)
 * Created a website that provides a simple machine learning algorithm that utilizes a random forest regression to predict the price of an avocado based on various parameters
 * Website created with Flask
 
