@@ -8,6 +8,7 @@
 ### [Project 1: Web App for Estimating Avocado Prices](https://github.com/jennyliu7/Project-Avocado)
 * Created a website that provides a simple machine learning algorithm that utilizes a random forest regression to predict the price of an avocado based on various parameters
 * Website created with Flask
+* Created at the GT 2021 hackathon
 
 ### Project 2: Android App for Arithmetic Tests
 * Developing an android app that users can interact with to perform arithmetic tasks
